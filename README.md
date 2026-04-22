@@ -1,1 +1,3 @@
-# notes-management-system-342075-342207
+# Project Repository
+
+This is the initial README file for the project.
